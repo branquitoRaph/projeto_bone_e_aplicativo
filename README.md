@@ -6,6 +6,21 @@ Este projeto combina um aplicativo inovador de monitoramento de corrida com um b
 
 O projeto enfrenta o desafio de desenvolver um sistema de resfriamento eficiente e preciso para o boné de monitoramento de corredores. Garantir que o sensor de temperatura seja altamente sensível e confiável para detectar variações térmicas relevantes, de modo a acionar a liberação de água no momento exato e adequado, é um ponto crucial para assegurar o conforto térmico dos corredores durante suas atividades físicas. Além disso, é necessário garantir a integração perfeita entre o aplicativo de monitoramento e o sistema de controle de temperatura do boné, para que os dados de temperatura sejam transmitidos de forma rápida e precisa, permitindo a resposta adequada do sistema de resfriamento em tempo real. O projeto busca superar esses desafios para proporcionar uma solução de alta qualidade que atenda às necessidades dos corredores e contribua para uma experiência mais confortável e segura durante suas corridas.
 
+## Equipe
+
+<ul>
+  <li>Breno Tonini Costa</li>
+  <li>Eduardo Martins Cardoso</li>
+  <li>Gianluca Scalzi Sampogna</li>
+  <li>Miguel Estevam França</li>
+  <li>Raphael da Silva Branco</li>
+</ul>
+
+<p>Professor (Orientador)</p>
+<ul>
+  <li>Vitor Jurtlero de Freitas</li>
+</ul>
+
 ## Solução Proposta
 
 A solução proposta para o problema de monitoramento e conforto térmico dos corredores é baseada em uma abordagem completa e inovadora. O cerne da solução reside na utilização de um sensor de temperatura altamente preciso e sensível, que é integrado ao boné. Esse sensor coleta dados térmicos em tempo real, permitindo que o sistema de controle tome decisões inteligentes.
