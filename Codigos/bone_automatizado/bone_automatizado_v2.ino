@@ -16,6 +16,7 @@ void setup() {
   therm.setUnit(TEMP_C);
 
   pinMode(rele, OUTPUT);
+  digitalWrite(rele, HIGH);
 }
 
 void loop() {
@@ -41,9 +42,9 @@ void loop() {
 }
 
 void LigarRele(){
-  digitalWrite(rele, HIGH);
-  delay(tempo_ativo);
   digitalWrite(rele, LOW);
+  delay(tempo_ativo);
+  digitalWrite(rele, HIGH);
   cooldown = true;
 }
 
