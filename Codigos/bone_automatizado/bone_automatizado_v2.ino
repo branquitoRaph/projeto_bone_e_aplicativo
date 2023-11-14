@@ -5,7 +5,7 @@ IRTherm therm;                  //Objeto do sensor
 
 int rele = 2;
 int tempo_espera = 25000;
-int tempo_ativo = 4000;
+int tempo_ativo = 7000;
 
 float temp_ambiente, temp_objeto;
 bool cooldown = false;
