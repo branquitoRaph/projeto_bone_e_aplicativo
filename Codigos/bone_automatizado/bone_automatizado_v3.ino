@@ -45,11 +45,12 @@ void loop() {
           break;
           }
         }
-
-        temp_objeto = therm.object();
-        temp_ambiente = therm.ambient();
-        PrintInfo();
-        delay(1000);
+        if (therm.read()) {
+          temp_objeto = therm.object();
+          temp_ambiente = therm.ambient();
+          PrintInfo();
+          delay(1000);
+        }
       }
       cooldown = false;
     }
