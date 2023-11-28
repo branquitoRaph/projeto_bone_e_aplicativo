@@ -65,7 +65,7 @@ Em resumo, a solução proposta visa oferecer uma experiência inovadora, segura
 
 ## Instalação e Configuração
 
-**OBS**: O projeto ainda está em desenvolvimento.
+O aplicativo está postado na plataforma Mit App Inventor e o código do arduíno está no repositório.
 
 ## Contribuição
 
@@ -73,10 +73,10 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue para r
 
 ## Resultados e Considerações Finais
 
-**OBS**: O projeto ainda está em desenvolvimento.
+Resultados conformes com o esperado.
 
 ## Contato
 
-Para mais informações sobre este projeto, entre em contato conosco através do e-mail: raphaelbranco@ucl.br
+Abra uma issue aqui no repositório.
 
 
