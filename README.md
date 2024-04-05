@@ -12,7 +12,7 @@ O projeto enfrenta o desafio de desenvolver um sistema de resfriamento eficiente
   <li>Breno Tonini Costa</li>
   <li>Eduardo Martins Cardoso</li>
   <li>Gianluca Scalzi Sampogna</li>
-  <li>Miguel Estevam França</li>
+  <li>Miguel França Estevam Lopes</li>
   <li>Raphael da Silva Branco</li>
 </ul>
 
